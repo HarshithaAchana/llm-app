@@ -45,4 +45,4 @@ streamlit run app.py
 uvicorn main:app --reload
 
 <img width="1340" height="661" alt="image" src="https://github.com/user-attachments/assets/50705575-dada-420f-9b92-59e7fc2665ea" />
-Made with ❤️ by Harhitha Achana (https://github.com/yourusername)
+Made with ❤️ by Harhitha Achana (https://github.com/HarshithaAchana)
