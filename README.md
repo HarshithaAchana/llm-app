@@ -29,7 +29,7 @@ The app uses vector similarity to retrieve answers from the uploaded files. If n
 # Setup Instructions 
 
 ### Clone the repo
-git clone https://github.com/yourusername/llm-app.git
+git clone https://github.com/HarshithaAchana/ollama-local-llm.git
 cd llm-app
 
 ### Create virtual environment
